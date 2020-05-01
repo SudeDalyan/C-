@@ -1,0 +1,9 @@
+C:\Users\DALYAN PC\Desktop\C#\Kayıt Defteri\Kayıt Defteri\bin\Debug\Kayıt Defteri.exe.config
+C:\Users\DALYAN PC\Desktop\C#\Kayıt Defteri\Kayıt Defteri\bin\Debug\Kayıt Defteri.exe
+C:\Users\DALYAN PC\Desktop\C#\Kayıt Defteri\Kayıt Defteri\bin\Debug\Kayıt Defteri.pdb
+C:\Users\DALYAN PC\Desktop\C#\Kayıt Defteri\Kayıt Defteri\obj\Debug\Kayıt Defteri.csprojResolveAssemblyReference.cache
+C:\Users\DALYAN PC\Desktop\C#\Kayıt Defteri\Kayıt Defteri\obj\Debug\Kayıt_Defteri.Form1.resources
+C:\Users\DALYAN PC\Desktop\C#\Kayıt Defteri\Kayıt Defteri\obj\Debug\Kayıt_Defteri.Properties.Resources.resources
+C:\Users\DALYAN PC\Desktop\C#\Kayıt Defteri\Kayıt Defteri\obj\Debug\Kayıt Defteri.csproj.GenerateResource.Cache
+C:\Users\DALYAN PC\Desktop\C#\Kayıt Defteri\Kayıt Defteri\obj\Debug\Kayıt Defteri.exe
+C:\Users\DALYAN PC\Desktop\C#\Kayıt Defteri\Kayıt Defteri\obj\Debug\Kayıt Defteri.pdb
