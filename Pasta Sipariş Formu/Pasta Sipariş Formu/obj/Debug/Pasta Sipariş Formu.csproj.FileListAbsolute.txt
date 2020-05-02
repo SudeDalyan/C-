@@ -1,0 +1,9 @@
+C:\Users\DALYAN PC\Desktop\C#\Pasta Sipariş Formu\Pasta Sipariş Formu\bin\Debug\Pasta Sipariş Formu.exe.config
+C:\Users\DALYAN PC\Desktop\C#\Pasta Sipariş Formu\Pasta Sipariş Formu\bin\Debug\Pasta Sipariş Formu.exe
+C:\Users\DALYAN PC\Desktop\C#\Pasta Sipariş Formu\Pasta Sipariş Formu\bin\Debug\Pasta Sipariş Formu.pdb
+C:\Users\DALYAN PC\Desktop\C#\Pasta Sipariş Formu\Pasta Sipariş Formu\obj\Debug\Pasta Sipariş Formu.csprojResolveAssemblyReference.cache
+C:\Users\DALYAN PC\Desktop\C#\Pasta Sipariş Formu\Pasta Sipariş Formu\obj\Debug\Pasta_Sipariş_Formu.Form1.resources
+C:\Users\DALYAN PC\Desktop\C#\Pasta Sipariş Formu\Pasta Sipariş Formu\obj\Debug\Pasta_Sipariş_Formu.Properties.Resources.resources
+C:\Users\DALYAN PC\Desktop\C#\Pasta Sipariş Formu\Pasta Sipariş Formu\obj\Debug\Pasta Sipariş Formu.csproj.GenerateResource.Cache
+C:\Users\DALYAN PC\Desktop\C#\Pasta Sipariş Formu\Pasta Sipariş Formu\obj\Debug\Pasta Sipariş Formu.exe
+C:\Users\DALYAN PC\Desktop\C#\Pasta Sipariş Formu\Pasta Sipariş Formu\obj\Debug\Pasta Sipariş Formu.pdb
