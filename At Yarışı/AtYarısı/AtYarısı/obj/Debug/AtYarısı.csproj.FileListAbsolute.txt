@@ -1,0 +1,9 @@
+C:\Users\DALYAN PC\Desktop\C#\At Yarışı\AtYarısı\AtYarısı\bin\Debug\AtYarısı.exe.config
+C:\Users\DALYAN PC\Desktop\C#\At Yarışı\AtYarısı\AtYarısı\bin\Debug\AtYarısı.exe
+C:\Users\DALYAN PC\Desktop\C#\At Yarışı\AtYarısı\AtYarısı\bin\Debug\AtYarısı.pdb
+C:\Users\DALYAN PC\Desktop\C#\At Yarışı\AtYarısı\AtYarısı\obj\Debug\AtYarısı.csprojResolveAssemblyReference.cache
+C:\Users\DALYAN PC\Desktop\C#\At Yarışı\AtYarısı\AtYarısı\obj\Debug\AtYarısı.Form1.resources
+C:\Users\DALYAN PC\Desktop\C#\At Yarışı\AtYarısı\AtYarısı\obj\Debug\AtYarısı.Properties.Resources.resources
+C:\Users\DALYAN PC\Desktop\C#\At Yarışı\AtYarısı\AtYarısı\obj\Debug\AtYarısı.csproj.GenerateResource.Cache
+C:\Users\DALYAN PC\Desktop\C#\At Yarışı\AtYarısı\AtYarısı\obj\Debug\AtYarısı.exe
+C:\Users\DALYAN PC\Desktop\C#\At Yarışı\AtYarısı\AtYarısı\obj\Debug\AtYarısı.pdb
