@@ -1,0 +1,18 @@
+C:\Users\DALYAN PC\Desktop\hesap\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+C:\Users\DALYAN PC\Desktop\hesap\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe
+C:\Users\DALYAN PC\Desktop\hesap\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.pdb
+C:\Users\DALYAN PC\Desktop\hesap\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csprojResolveAssemblyReference.cache
+C:\Users\DALYAN PC\Desktop\hesap\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Form1.resources
+C:\Users\DALYAN PC\Desktop\hesap\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Properties.Resources.resources
+C:\Users\DALYAN PC\Desktop\hesap\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.GenerateResource.Cache
+C:\Users\DALYAN PC\Desktop\hesap\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.exe
+C:\Users\DALYAN PC\Desktop\hesap\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.pdb
+C:\Users\DALYAN PC\Desktop\C# Form\Hesap Makinesi\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+C:\Users\DALYAN PC\Desktop\C# Form\Hesap Makinesi\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.exe
+C:\Users\DALYAN PC\Desktop\C# Form\Hesap Makinesi\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.pdb
+C:\Users\DALYAN PC\Desktop\C# Form\Hesap Makinesi\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe
+C:\Users\DALYAN PC\Desktop\C# Form\Hesap Makinesi\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.pdb
+C:\Users\DALYAN PC\Desktop\C# Form\Hesap Makinesi\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csprojResolveAssemblyReference.cache
+C:\Users\DALYAN PC\Desktop\C# Form\Hesap Makinesi\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Form1.resources
+C:\Users\DALYAN PC\Desktop\C# Form\Hesap Makinesi\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Properties.Resources.resources
+C:\Users\DALYAN PC\Desktop\C# Form\Hesap Makinesi\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.GenerateResource.Cache
