@@ -1,0 +1,9 @@
+C:\Users\DALYAN PC\Desktop\C# Form\RaceofAnimals\RaceofAnimals\bin\Debug\RaceofAnimals.exe.config
+C:\Users\DALYAN PC\Desktop\C# Form\RaceofAnimals\RaceofAnimals\bin\Debug\RaceofAnimals.exe
+C:\Users\DALYAN PC\Desktop\C# Form\RaceofAnimals\RaceofAnimals\bin\Debug\RaceofAnimals.pdb
+C:\Users\DALYAN PC\Desktop\C# Form\RaceofAnimals\RaceofAnimals\obj\Debug\RaceofAnimals.csprojResolveAssemblyReference.cache
+C:\Users\DALYAN PC\Desktop\C# Form\RaceofAnimals\RaceofAnimals\obj\Debug\RaceofAnimals.Form1.resources
+C:\Users\DALYAN PC\Desktop\C# Form\RaceofAnimals\RaceofAnimals\obj\Debug\RaceofAnimals.Properties.Resources.resources
+C:\Users\DALYAN PC\Desktop\C# Form\RaceofAnimals\RaceofAnimals\obj\Debug\RaceofAnimals.csproj.GenerateResource.Cache
+C:\Users\DALYAN PC\Desktop\C# Form\RaceofAnimals\RaceofAnimals\obj\Debug\RaceofAnimals.exe
+C:\Users\DALYAN PC\Desktop\C# Form\RaceofAnimals\RaceofAnimals\obj\Debug\RaceofAnimals.pdb
