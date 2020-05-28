@@ -1,0 +1,9 @@
+C:\Users\DALYAN PC\Desktop\C# Form\CaptureGame2\CaptureGame2\bin\Debug\CaptureGame2.exe.config
+C:\Users\DALYAN PC\Desktop\C# Form\CaptureGame2\CaptureGame2\bin\Debug\CaptureGame2.exe
+C:\Users\DALYAN PC\Desktop\C# Form\CaptureGame2\CaptureGame2\bin\Debug\CaptureGame2.pdb
+C:\Users\DALYAN PC\Desktop\C# Form\CaptureGame2\CaptureGame2\obj\Debug\CaptureGame2.csprojResolveAssemblyReference.cache
+C:\Users\DALYAN PC\Desktop\C# Form\CaptureGame2\CaptureGame2\obj\Debug\CaptureGame2.Form1.resources
+C:\Users\DALYAN PC\Desktop\C# Form\CaptureGame2\CaptureGame2\obj\Debug\CaptureGame2.Properties.Resources.resources
+C:\Users\DALYAN PC\Desktop\C# Form\CaptureGame2\CaptureGame2\obj\Debug\CaptureGame2.csproj.GenerateResource.Cache
+C:\Users\DALYAN PC\Desktop\C# Form\CaptureGame2\CaptureGame2\obj\Debug\CaptureGame2.exe
+C:\Users\DALYAN PC\Desktop\C# Form\CaptureGame2\CaptureGame2\obj\Debug\CaptureGame2.pdb
