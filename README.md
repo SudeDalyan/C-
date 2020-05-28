@@ -4,3 +4,5 @@
     👾 Pasta Sipariş Formu
     👾 Hesap Makinesi
     👾 Race of Animals
+    👾Capture Game
+    👾 Capture Game2
