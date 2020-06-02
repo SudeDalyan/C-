@@ -1,0 +1,9 @@
+C:\Users\DALYAN PC\Desktop\C# Form\MatematikOyunu\Matematikoyunu\Matematikoyunu\bin\Debug\Matematikoyunu.exe.config
+C:\Users\DALYAN PC\Desktop\C# Form\MatematikOyunu\Matematikoyunu\Matematikoyunu\bin\Debug\Matematikoyunu.exe
+C:\Users\DALYAN PC\Desktop\C# Form\MatematikOyunu\Matematikoyunu\Matematikoyunu\bin\Debug\Matematikoyunu.pdb
+C:\Users\DALYAN PC\Desktop\C# Form\MatematikOyunu\Matematikoyunu\Matematikoyunu\obj\Debug\Matematikoyunu.csprojResolveAssemblyReference.cache
+C:\Users\DALYAN PC\Desktop\C# Form\MatematikOyunu\Matematikoyunu\Matematikoyunu\obj\Debug\Matematikoyunu.Form1.resources
+C:\Users\DALYAN PC\Desktop\C# Form\MatematikOyunu\Matematikoyunu\Matematikoyunu\obj\Debug\Matematikoyunu.Properties.Resources.resources
+C:\Users\DALYAN PC\Desktop\C# Form\MatematikOyunu\Matematikoyunu\Matematikoyunu\obj\Debug\Matematikoyunu.csproj.GenerateResource.Cache
+C:\Users\DALYAN PC\Desktop\C# Form\MatematikOyunu\Matematikoyunu\Matematikoyunu\obj\Debug\Matematikoyunu.exe
+C:\Users\DALYAN PC\Desktop\C# Form\MatematikOyunu\Matematikoyunu\Matematikoyunu\obj\Debug\Matematikoyunu.pdb
