@@ -1,0 +1,9 @@
+C:\Users\DALYAN PC\Desktop\C# Form\Tas Kagıt Makas Oyunu\Tas Kagıt Makas Oyunu\bin\Debug\Tas Kagıt Makas Oyunu.exe.config
+C:\Users\DALYAN PC\Desktop\C# Form\Tas Kagıt Makas Oyunu\Tas Kagıt Makas Oyunu\bin\Debug\Tas Kagıt Makas Oyunu.exe
+C:\Users\DALYAN PC\Desktop\C# Form\Tas Kagıt Makas Oyunu\Tas Kagıt Makas Oyunu\bin\Debug\Tas Kagıt Makas Oyunu.pdb
+C:\Users\DALYAN PC\Desktop\C# Form\Tas Kagıt Makas Oyunu\Tas Kagıt Makas Oyunu\obj\Debug\Tas Kagıt Makas Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\DALYAN PC\Desktop\C# Form\Tas Kagıt Makas Oyunu\Tas Kagıt Makas Oyunu\obj\Debug\Tas_Kagıt_Makas_Oyunu.Form1.resources
+C:\Users\DALYAN PC\Desktop\C# Form\Tas Kagıt Makas Oyunu\Tas Kagıt Makas Oyunu\obj\Debug\Tas_Kagıt_Makas_Oyunu.Properties.Resources.resources
+C:\Users\DALYAN PC\Desktop\C# Form\Tas Kagıt Makas Oyunu\Tas Kagıt Makas Oyunu\obj\Debug\Tas Kagıt Makas Oyunu.csproj.GenerateResource.Cache
+C:\Users\DALYAN PC\Desktop\C# Form\Tas Kagıt Makas Oyunu\Tas Kagıt Makas Oyunu\obj\Debug\Tas Kagıt Makas Oyunu.exe
+C:\Users\DALYAN PC\Desktop\C# Form\Tas Kagıt Makas Oyunu\Tas Kagıt Makas Oyunu\obj\Debug\Tas Kagıt Makas Oyunu.pdb
