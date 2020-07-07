@@ -6,4 +6,5 @@
     👾 Race of Animals
     👾 Capture Game
     👾 Capture Game2
-    👾 Matematik Oyunu 
+    👾 Matematik Oyunu
+    👾 Taş-Kağıt-Makas Oyunu
